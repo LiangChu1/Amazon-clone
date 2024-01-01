@@ -3,7 +3,7 @@
 ## Description:
 A web application replicating one of the globally renowned e-commerce platforms, Amazon. This particular clone is done through React and uses SQL and NoSQL database applications like Firebase and Stripe.
 
-[Web Link](clone-49d41.firebaseapp.com)
+[Web Link](https://clone-49d41.firebaseapp.com)
 
 ## Main Features:
 1. Developed a comprehensive set of pages, including home, login, checkout, payment, and orders pages.
